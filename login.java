@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TypingMaster {
+public class login {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
